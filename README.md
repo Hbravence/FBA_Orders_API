@@ -1,4 +1,3 @@
-# FBA_Orders_API
 # Java Seller API Project
 
 ## 📌 Project Overview
